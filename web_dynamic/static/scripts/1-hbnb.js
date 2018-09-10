@@ -1,5 +1,4 @@
 // This script will listen if box check to account for amenity id or remove
-
 let list = {}
 let keys = []
 $( document ).ready(function() {
@@ -10,6 +9,7 @@ $( document ).ready(function() {
       delete list[$(this).attr('data-name')]
     }
     keys = Object.keys(list);
-    $('DIV.amenities h4').text( keys.join(', '));
+    $('DIV.amenities h4').empty();
+    $('DIV.amenities h4').append( '&nbsp;' + keys.join(', '));
   });
 });
