@@ -43,8 +43,13 @@
 	font-size: 30px;
 	flex-grow: 1;
 	margin: 10px 0 30px 0;
-	text-align: center;
+	overflow: hidden;
+        word-wrap: break-word;
+	white-space: normal;
+	white-space: normal;
+	text-align: left
 }
+
 
 .container .places .price_by_night {
 	color: #FF5A5F;
