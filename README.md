@@ -212,11 +212,14 @@ github repo
 
 ## Authors
 
-* MJ Johnson, [@mj31508](https://github.com/mj31508)
-* David John Coleman II, [davidjohncoleman.com](http://www.davidjohncoleman.com/) | [@djohncoleman](https://twitter.com/djohncoleman)
-* Kimberly Wong, [kjowong](https://github.com/kjowong) | [@kjowong](https://twitter.com/kjowong) | [kjowong@gmail.com](kjowong@gmail.com)
-* Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
-* Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
+* MJ Johnson, [github](https://github.com/mj31508)
+* David John Coleman II, [davidjohncoleman.com](http://www.davidjohncoleman.com/) | [twitter](https://twitter.com/djohncoleman)
+* Kimberly Wong, [github](https://github.com/kjowong) | [twitter](https://twitter.com/kjowong) | [kjowong@gmail.com](kjowong@gmail.com)
+* Carrie Ybay, [github](https://github.com/hicarrie) | [twitter](https://twitter.com/hicarrie_)
+* Jared Heck, [github](https://github.com/jarehec) | [twitter](https://twitter.com/jarehec)
+* Adriel Tolentino, [github](https://github.com/adrielt07) | [twitter](https://twitter.com/am__adriel)
+* Germaine Balmania, [github](https://github.com/GucciGerm) | [twitter](https://twitter.com/GucciGerm)
+
 
 ## License
 
